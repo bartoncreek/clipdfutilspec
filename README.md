@@ -8,6 +8,10 @@ clipdfutilspec
 
 # Project Plan
 
+## 1.1 PDF Ontology
+
+What a PDF *is* must be completely determined.
+
 ...
 
 # AUTHOR
